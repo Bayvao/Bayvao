@@ -17,7 +17,7 @@ I'm Bayvao Verma, an experienced full stack web developer with a demonstrated hi
     <br /> 
   </div>
   
-- <!-- <div>
+<!-- -  <div>
     <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/Bayvao/Bayvao/main/images/gfg.png" style="margin-left: -10px" >
     ... as a <strong>Technical Content Writer</strong> at Geeks for Geeks where I have penned down forty plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithms concepts.
     <br />
