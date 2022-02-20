@@ -71,7 +71,7 @@ I'm Bayvao Verma, an experienced full stack web developer with a demonstrated hi
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/Bayvao/Bayvao.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+![ViewCount](https://views.whatilearened.today/views/github/Bayvao/Bayvao.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/Bayvao)
 
 </div>
 
