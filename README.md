@@ -57,7 +57,7 @@ I'm Bayvao Verma, an experienced full stack web developer with a demonstrated hi
   <i>Let's connect and chat! Find me on the web...</i>
   
   
-   [![Linkedin Badge](https://img.shields.io/badge/-bayvaoverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bayvao-verma/)](https://www.linkedin.com/in/Bayvao/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-bayvao-verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bayvao-verma/)](https://www.linkedin.com/in/bayvao-verma/) 
    [![Gmail Badge](https://img.shields.io/badge/-vermabayvao-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vermabayvao@gmail.com)](mailto:vermabayvao@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@bayvao_verma-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bayvao_verma/)](https://instagram.com/bayvao_verma) 
    [![GeeksforGeeks Badge](https://img.shields.io/badge/-bayvao_verma-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/bayvaoverma/profile)](https://auth.geeksforgeeks.org/user/bayvaoverma/profile)
