@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bayvao Verma</h1>
-<h3 align="center">A passionate Java Backend developer from India and a software engineer from India. I love to take on problems and code my way out of them. I take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h3 align="center">A passionate Java Backend Developer and a software engineer from India. I love to take on problems and code my way out of them. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayvao&label=Profile%20views&color=0e75b6&style=flat" alt="bayvao" /> </p>
 
