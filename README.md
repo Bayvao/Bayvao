@@ -1,4 +1,3 @@
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 <h1 align="center">Hi 👋, I'm Bayvao Verma</h1>
 <h3 align="center">A passionate Java Backend developer from India and a software engineer from India. I love to take on problems and code my way out of them. I take great care in the experience, architecture, and code quality of the things I build.</h3>
