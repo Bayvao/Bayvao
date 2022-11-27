@@ -1,79 +1,28 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-<!-- I'm [Bayvao Verma](https://verma-anushka.github.io/anushkaverma/), an experienced full stack web developer and technical writer with a demonstrated history of working in the information technology and services industry.
--->
-I'm Bayvao Verma, an experienced full stack web developer with a demonstrated history of working in the information technology and services industry.
+<h1 align="center">Hi 👋, I'm Bayvao Verma</h1>
+<h3 align="center">A passionate Java Backend developer from India and a software engineer from India. I love to take on problems and code my way out of them. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 
- ---
- 
-**Currently I am working ...**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayvao&label=Profile%20views&color=0e75b6&style=flat" alt="bayvao" /> </p>
 
-- <div>
-    <img width="250" height="95" align='left' src="https://raw.githubusercontent.com/Bayvao/Bayvao/main/images/cognizant_Logo.png" >
-    ... as a <strong>full stack web developer</strong> for Cognizant, where I am working on designing & developing web applications.
-    <br />
-    <strong>Tech Stack: </strong> Java, Spring Boot, Spring Security, Spring Cloud, Hibernate, Javascript, Angular, Oracle SQL, PostgreSQL, Redis. 
-    <br /> 
-    <br /> 
-  </div>
-  
-<!-- -  <div>
-    <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/Bayvao/Bayvao/main/images/gfg.png" style="margin-left: -10px" >
-    ... as a <strong>Technical Content Writer</strong> at Geeks for Geeks where I have penned down forty plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithms concepts.
-    <br />
-    <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/bayvaoverma/profile" >Geeks for Geeks</a> 
-    <br /> 
-  </div> -->
+- 🔭 I’m currently working in **HashedIn technologies**
 
- ---
- 
-**Languages and Tools:**
+- 💬 Ask me about **Java, Spring and Databases**
 
-<p align="center">
+- 📫 How to reach me **vermabayvao@gmail.com**
 
-  <div align="center">
-  
- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> 
- <code><img height="40" src="https://raw.githubusercontent.com/Bayvao/Bayvao/main/images/spring-boot.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-  </div>
-  </p>
-
- ---
- 
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayvao&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayvao&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bayvao-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayvao-verma" height="30" width="40" /></a>
+<a href="https://fb.com/verma.bayvao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="verma.bayvao" height="30" width="40" /></a>
+<a href="https://instagram.com/bayvao_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bayvao_verma" height="30" width="40" /></a>
 </p>
 
- ---
- 
-<p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
-  
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-bayvaoverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bayvao-verma/)](https://www.linkedin.com/in/bayvao-verma/) 
-   [![Gmail Badge](https://img.shields.io/badge/-vermabayvao-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vermabayvao@gmail.com)](mailto:vermabayvao@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@bayvao_verma-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bayvao_verma/)](https://instagram.com/bayvao_verma) 
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-bayvao_verma-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/bayvaoverma/profile)](https://auth.geeksforgeeks.org/user/bayvaoverma/profile)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
-   
-  <p align="center">
-    Show ❤️ by starring and forking repositories you find good!
-  </p>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayvao&show_icons=true&locale=en&layout=compact" alt="bayvao" /></p>
 
-<div align="right">
-  
-![ViewCount](https://views.whatilearened.today/views/github/Bayvao/Bayvao.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/Bayvao)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayvao&show_icons=true&locale=en" alt="bayvao" /></p>
 
-</div>
-
-<!-- [![HitCount](http://hits.dwyl.com/Bayvao/Bayvao.svg)](http://hits.dwyl.com/Bayvao/Bayvao) -->
 
