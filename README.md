@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayvao&label=Profile%20views&color=0e75b6&style=flat" alt="bayvao" /> </p>
 
 - 🔭 I’m currently working in **HashedIn technologies**
-- 
+
 - 🔭 I’ve previously worked in **Cognizant Technologies**
 
 - 💬 Ask me about **Java, Spring and Databases**
